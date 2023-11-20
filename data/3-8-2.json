@@ -1,0 +1,138 @@
+{
+  "name": "Proporção de gastos em saúde",
+  "index": "3.8.2",
+  "data": {
+    "Brasil": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "18,6",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,7"
+    },
+    "Norte": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "10,9",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "1,3"
+    },
+    "Rondônia": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "18,8",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,5"
+    },
+    "Acre": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "11,5",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "1,4"
+    },
+    "Amazonas": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "3,3",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "0,4"
+    },
+    "Roraima": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "10,3",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "1,2"
+    },
+    "Pará": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "11,8",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "1,1"
+    },
+    "Amapá": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "7,7",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "0,8"
+    },
+    "Tocantins": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": 15,
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "2,3"
+    },
+    "Nordeste": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": 17,
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,2"
+    },
+    "Maranhão": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "14,7",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "2,7"
+    },
+    "Piauí": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "19,7",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,8"
+    },
+    "Ceará": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "14,2",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "1,9"
+    },
+    "Rio Grande do Norte": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "15,2",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "2,6"
+    },
+    "Paraíba": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "17,3",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "4,3"
+    },
+    "Pernambuco": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "17,2",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": 3
+    },
+    "Alagoas": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": 19,
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "4,5"
+    },
+    "Sergipe": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "17,2",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,1"
+    },
+    "Bahia": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "18,6",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,8"
+    },
+    "Sudeste": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "20,7",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "4,2"
+    },
+    "Minas Gerais": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "21,9",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "4,8"
+    },
+    "Espírito Santo": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "19,9",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "4,6"
+    },
+    "Rio de Janeiro": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "18,8",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": 4
+    },
+    "São Paulo": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "21,1",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,9"
+    },
+    "Sul": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "19,4",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "4,2"
+    },
+    "Paraná": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "21,1",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "5,1"
+    },
+    "Santa Catarina": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "16,3",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,1"
+    },
+    "Rio Grande do Sul": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "19,5",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,9"
+    },
+    "Centro-Oeste": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "17,3",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,5"
+    },
+    "Mato Grosso do Sul": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "18,8",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "3,5"
+    },
+    "Mato Grosso": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "16,8",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "2,9"
+    },
+    "Goiás": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": "18,4",
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "4,1"
+    },
+    "Distrito Federal": {
+      "Proporção de pessoas em famílias com gastos em saúde acima de 10% em relaçăo ao total de despesas familiares (Percentual)": 14,
+      "Proporçăo de pessoas em famílias com gastos em saúde acima de 25% em relaçăo ao total de despesas familiares (Percentual)": "2,9"
+    }
+  }
+}
