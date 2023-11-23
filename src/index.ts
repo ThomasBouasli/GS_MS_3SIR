@@ -5,7 +5,7 @@ const prisma = new PrismaClient();
 
 const app = Express();
 
-app.get("/", async (req, res) => {
+app.get("/objetivos", async (req, res) => {
   const data = await prisma.data.findMany({
     select: {
       id: true,
@@ -13,10 +13,10 @@ app.get("/", async (req, res) => {
     },
   });
 
-  return res.json(data);
+  return res.status(200).json(data);
 });
 
-app.get("/:id", async (req, res) => {
+app.get("/indicador/:id", async (req, res) => {
   const { id } = req.params;
 
   const data = await prisma.data.findUnique({
@@ -25,7 +25,11 @@ app.get("/:id", async (req, res) => {
     },
   });
 
-  return res.json(data);
+  if (!data) {
+    res.status(404).json({ message: "Data not found" });
+  }
+
+  return res.status(200).json(data);
 });
 
 app.listen(3001, () => {

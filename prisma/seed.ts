@@ -10,8 +10,6 @@ const schema = z.object({
   data: z.any(),
 });
 
-type Data = z.infer<typeof schema>;
-
 async function main() {
   const fileNames = fs.readdirSync("./data");
 
