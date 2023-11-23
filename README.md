@@ -2,13 +2,32 @@
 
 ## Como Rodar o Projeto
 
+**Clone o repositório**
+
 ```bash
-# Clone o repositório
-$ git clone https://github.com/ThomasBouasli/GS_MS_3SIR
+git clone https://github.com/ThomasBouasli/GS_MS_3SIR
+```
 
-# Entre no diretório
-$ cd GS_MS_3SIR
+**Entre na pasta do projeto**
 
-# Rode o projeto
-$ docker-compose up -d
+```bash
+cd GS_MS_3SIR
+```
+
+**Rode o projeto com Docker**
+
+```bash
+docker-compose up
+```
+
+## Como avaliar
+
+**Faca requisições com CURL**
+
+```bash
+curl -X GET http://localhost:3001/objetivos
+```
+
+```bash
+curl -X GET http://localhost:3001/indicador/3.1.1
 ```
