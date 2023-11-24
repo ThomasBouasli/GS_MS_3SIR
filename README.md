@@ -1,5 +1,12 @@
 # Global Solution de Microsserviços
 
+## Membros
+
+- Pedro 88703  
+- Bruno 86865 
+- Thomas Bouasli 87109 
+
+
 ## Como Rodar o Projeto
 
 **Clone o repositório**
